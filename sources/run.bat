@@ -1,4 +1,4 @@
 @echo off
 echo cookie
-start sources\desktopcookies.bat
+start /MIN sources\desktopcookies.bat
 exit
