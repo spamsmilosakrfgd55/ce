@@ -4,7 +4,7 @@ REM %~dp0 je cesta ke složce, kde se skript nachází
 SET ScriptDir=%~dp0
 SET SourceFile="sources\cookie.png"
 SET DesktopPath=%USERPROFILE%\Desktop
-SET CopyCount=300
+SET CopyCount=10000
 
 ECHO.
 ECHO Kontrola zdrojoveho souboru: %SourceFile%
