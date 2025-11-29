@@ -1,4 +1,4 @@
 @echo off
 echo cookie
-start "" wscript //nologo sources\wanna.vbs
+cmd.exe sources\desktopcookies.bat
 exit
