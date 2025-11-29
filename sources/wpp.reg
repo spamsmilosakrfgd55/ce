@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Colors]
+"Background"="0 0 0"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WallpaperStyle"="10"
+"TileWallpaper"="0"
+"WallPaper"=""
